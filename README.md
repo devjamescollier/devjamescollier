@@ -10,9 +10,9 @@ I program embedded systems and firmware for my PCBs primarily in C and C++, and 
 ### My Projects
 
 **Check out some of my favorite hardware projects:**
-- [Hardware Project 1](link)
-- [Hardware Project 2](link)
-- [Hardware Project 3](link)
+- [Signal Generator PCB](link)
+- [Avionics Flight Computer PCB](link)
+- [Dual-Output DC-DC Power Supply PCB](link)
 - [Hardware Project 4](link)
 - [Hardware Project 5](link)
 
