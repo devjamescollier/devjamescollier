@@ -11,7 +11,7 @@ I program embedded systems and firmware for my PCBs primarily in C and C++, and 
 
 **Check out some of my favorite hardware projects:**
 - [Signal Generator PCB](link)
-- [Avionics Flight Computer PCB](link)
+- [Avionics Flight Computer Telemetry PCB](link)
 - [Dual-Output DC-DC Power Supply PCB](link)
 - [Hardware Project 4](link)
 - [Hardware Project 5](link)
