@@ -14,7 +14,7 @@ I love building things! Check out some of my projects!
 
 I am a hardware developer first. I enjoy PCB design and integrating electronic systems with embedded firmware. Most of my projects center around signal generation, data acquisition, and power systems!
 
-#### ([STM32-Based Programmable Waveform Generator](https://github.com/devjamescollier/Dual-Channel_Embedded_Power_Supply_Board.git))
+#### [STM32-Based Programmable Waveform Generator](https://github.com/devjamescollier/Dual-Channel_Embedded_Power_Supply_Board.git)
 
 - A USB-powered function generator built around the **STM32C031K6T6** and **MCP4901 DAC**. The board generates sine, triangle, and square waves with adjustable amplitude, onboard controls, status indicators, and an SWD programming interface.
 
