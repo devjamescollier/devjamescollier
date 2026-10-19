@@ -4,7 +4,7 @@ Electrical and Computer Engineering @ USC | PCB Designer | Embedded Software Dev
 
 ## About Me
 
-I'm a student at the [University of Southern California](usc.edu) studying Electrical and Computer Engineering with an emphasis in *Systems, Signals, and Learning*. I have an expected graduation date of May 2028. I specialize in printed circuit board (PCB) design, embedded firmware development, and systems engineering!
+I'm a student at the [University of Southern California](https://www.usc.edu/) studying Electrical and Computer Engineering with an emphasis in *Systems, Signals, and Learning*. I have an expected graduation date of May 2028. I specialize in printed circuit board (PCB) design, embedded firmware development, and systems engineering!
 
 ## Projects
 
@@ -14,7 +14,7 @@ I love building things! Check out some of my projects!
 
 I am a hardware developer first. I enjoy PCB design and integrating electronic systems with embedded firmware. Most of my projects center around signal generation, data acquisition, and power systems!
 
-#### [STM32-Based Programmable Waveform Generator](https://github.com/devjamescollier/Dual-Channel_Embedded_Power_Supply_Board.git)
+#### [STM32-Based Programmable Waveform Generator](https://github.com/devjamescollier/STM-32_Based_Waveform_Generator)
 
 - A USB-powered function generator built around the **STM32C031K6T6** and **MCP4901 DAC**. The board generates sine, triangle, and square waves with adjustable amplitude, onboard controls, status indicators, and an SWD programming interface.
 
@@ -26,7 +26,7 @@ I am a hardware developer first. I enjoy PCB design and integrating electronic s
 
 `KiCad EDA` `LTspice` `Simulink` `DC-DC Conversion` `Power Electronics`
 
-#### [Embedded Avionics and Sensor Data Acquisition PCB](LINK)
+#### Embedded Avionics and Sensor Data Acquisition PCB
 
 - An embedded avionics platform for collecting, conditioning, and processing sensor data. Designed around reliable power distribution, mixed-signal acquisition, and modular interfaces for future flight-system integration.
 
@@ -36,21 +36,26 @@ I am a hardware developer first. I enjoy PCB design and integrating electronic s
 
 If you like my hardware, you'll love my software! Although I primarily focus on hardware, I enjoy writing low-level firmware, and I build mathematical simulations as well as testing platforms!
 
+#### [Power-Fail-Safe Firmware Update Simulator](https://github.com/devjamescollier/failsafe-fwupdate)
+
+- A firmware update simulator written in **C** with two image slots, CRC-32 image validation, persistent flash metadata, trial boots, and automatic rollback when an update is not confirmed. A file-backed NOR flash model and fault-injection tests exercise interrupted writes and recovery across process restarts.
+
+`C` `Python` `CMake` `Embedded Software` `Firmware Updates` `Fault Injection`
+
 #### [Schrödinger Equation Simulation](https://github.com/devjamescollier/SchrodingerEquationSimulation)
 
 - A numerical simulation project for exploring quantum-mechanical wavefunctions and the behavior of solutions to the Schrödinger equation.
 
 `Mathematics` `C++` `OpenGL` `Numerical Methods` `Simulation`
 
-
 ## Technology Stack
 
-For hardware development, I use **Altium Designer** and **KiCad EDA** for schematic capture and PCB layout, along with **LTspice** and **Simulink** for modeling and simulation. I also work with **STMCubeIDE** for configuring my microcontrollers, firmware development, and debugging.
+For hardware development, I use **Altium Designer** and **KiCad EDA** for schematic capture and PCB layout, along with **LTspice** and **Simulink** for modeling and simulation. I also work with **STM32CubeIDE** for configuring my microcontrollers, firmware development, and debugging.
 
 For software development, I work mostly in low-level **C** and **C++** with **Python** and **MATLAB** for testing, analysis, and simulation as well as **Bash** for scripting. I primarily work with **STM32**, **ESP32**, and **ATmega328P** for embedded development. I use **Verilog** and **SystemVerilog** for digital hardware design. **Neovim** is my primary text editor.
 
-| Task     | Tools  |
-| :------: | :----: |
+| Task | Tools |
+| :---: | :---: |
 | **Software Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?logo=mathworks&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) |
 | **Hardware Description Languages** | ![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-6E4C9A?logoColor=white) |
 | **PCB Design & Simulation** | ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=white) ![KiCad EDA](https://img.shields.io/badge/KiCad%20EDA-314CB0?logo=kicad&logoColor=white) ![LTspice](https://img.shields.io/badge/LTspice-900028) ![Simulink](https://img.shields.io/badge/Simulink-E16737?logo=mathworks&logoColor=white) |
@@ -61,6 +66,7 @@ For software development, I work mostly in low-level **C** and **C++** with **Py
 
 - PCB Design
 - Mixed-Signal Electronics
+- Embedded Software
 - Power Electronics
 - Control Systems
 - Hardware Validation
@@ -75,6 +81,6 @@ Outside of engineering, I enjoy doing **competition mathematics**, playing **che
 
 Contact me if you are interested in working together!
 
-- **GitHub:**   [@devjamescollier](https://github.com/devjamescollier)
-- **Email:**    [jwcollie@usc.edu](mailto:jwcollie@usc.edu)
-- **LinkedIn:** [jameswyethcollier](LINK)
+- **GitHub:** [@devjamescollier](https://github.com/devjamescollier)
+- **Email:** [jwcollie@usc.edu](mailto:jwcollie@usc.edu)
+- **LinkedIn:** jameswyethcollier
