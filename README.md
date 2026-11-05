@@ -82,5 +82,4 @@ Outside of engineering, I enjoy doing **competition mathematics**, playing **che
 Contact me if you are interested in working together!
 
 - **GitHub:** [@devjamescollier](https://github.com/devjamescollier)
-- **Email:** [jwcollie@usc.edu](mailto:jwcollie@usc.edu)
 - **LinkedIn:** jameswyethcollier
